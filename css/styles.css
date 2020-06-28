@@ -168,12 +168,11 @@ p{
 
    /* COMMING SOON PAGE */
 
-   .top-container1{
-     background-color: #ff4c68;
-     color: #fff;
-     font-family: "Montserrat";
-     text-align: center;
-     padding: 7% 15%;
-     margin-top: 15%
+   .soon{
 
-   }
+  height: 50%;
+  width: 100%;
+  
+}
+
+ 
